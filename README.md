@@ -10,7 +10,7 @@ Built on the official [Fiber encrypted-data-payment starter](https://www.fiber.w
 ![Network](https://img.shields.io/badge/CKB-Testnet-00CC9B)
 ![Crypto](https://img.shields.io/badge/AES--256--GCM-WebCrypto-6E57E0)
 
-> **Demo video:** _unlisted link pending publish_ — replace this line with the YouTube URL.
+> **Demo video:** https://youtu.be/nRHm9Z6F-dQ
 
 ---
 
